@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a2540&height=120&section=header&text=Breno%20Miranda&fontColor=ffffff&fontSize=32" />
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.svg" width="100%" />
-</div>
+
 
 ## 👋 Olá! Eu sou o Breno
 
