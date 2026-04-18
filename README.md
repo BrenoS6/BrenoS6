@@ -81,7 +81,7 @@ Documentação logística
 
 <div align="center">
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=7ssejod9t5zu0fz6vd76aypes&theme=dark)
+![Spotify Recently Played]![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=7ssejod9t5zu0fz6vd76aypes)
 
 </div>
 
