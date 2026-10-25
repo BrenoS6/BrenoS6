@@ -80,7 +80,7 @@ Documentação logística
 
 <div align="center">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=7ssejod9t5zu0fz6vd76aypes)
+![Alt text]((https://spotify-recently-played.jeffreyca.workers.dev/svg?user=7ssejod9t5zu0fz6vd76aypes))
 
 </div>
 
