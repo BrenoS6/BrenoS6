@@ -78,11 +78,13 @@ Documentação logística
 
 ## 🎧 Ouvindo no Spotify
 
+
 <div align="center">
 
-![Alt text]((https://spotify-recently-played.jeffreyca.workers.dev/svg?user=7ssejod9t5zu0fz6vd76aypes))
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=7ssejod9t5zu0fz6vd76aypes" alt="Spotify Recently Played" />
 
 </div>
+
 
 ---
 
